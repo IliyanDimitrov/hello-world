@@ -1,3 +1,3 @@
 # hello-world
-My firtst Repo
-This is my firts commit brance.
+My first repo.
+This is my firts commit branch.
